@@ -1,4 +1,4 @@
-public interface Imprimir {
-    public void Imprimir();
+public interface Imprimible {
+  void imprimir();
 
 }
